@@ -46,3 +46,7 @@ const hex = (n) => "0x" + n.toString(16).padStart(2, "0");
 console.log(hex(gmul(0x57, 0x83)));
 console.log(hex(gmul(0x57, 0x13)));
 console.log(hex(gadd(0x57, 0x83)));
+
+
+
+//feur
